@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-react": "^7.26.3",
+    "@types/react": "^19.0.8",
+    "web-vitals": "^4.2.4"
+  },
+  "dependencies": {
+    "@fontsource/rubik": "^5.1.1",
+    "react-dom": "^19.0.0"
+  }
+}
